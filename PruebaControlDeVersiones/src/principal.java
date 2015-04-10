@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Héctor
+ *
+ */
 public class principal {
 
 	/**
