@@ -7,7 +7,7 @@ public class principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//SergIo Corredera alvarez
-		// Cambios de hector
+		// Cambios de hector j
 	}
 
 }
